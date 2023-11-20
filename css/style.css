@@ -1,0 +1,46 @@
+.mininav {
+  border: 0.5px solid #F2F2F2;
+}
+
+.ftop {
+  background: #F2F2F2;
+}
+
+.footermain p {
+  color: white;
+}
+
+.footermain ul {
+  color: aliceblue;
+  list-style: none;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.footermain li {
+  padding: 5px;
+}
+
+h6, h5, h2 {
+  color: white;
+}
+
+.flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 2px;
+}
+
+.bannerlink {
+  border-top: 1px solid white;
+  border-style: double;
+}
+
+.banner2nd {
+  height: auto;
+}/*# sourceMappingURL=style.css.map */
